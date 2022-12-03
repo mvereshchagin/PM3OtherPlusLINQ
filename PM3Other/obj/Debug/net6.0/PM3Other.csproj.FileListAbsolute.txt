@@ -1,0 +1,15 @@
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/bin/Debug/net6.0/PM3Other
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/bin/Debug/net6.0/PM3Other.deps.json
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/bin/Debug/net6.0/PM3Other.runtimeconfig.json
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/bin/Debug/net6.0/PM3Other.dll
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/bin/Debug/net6.0/PM3Other.pdb
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.csproj.AssemblyReference.cache
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.AssemblyInfoInputs.cache
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.AssemblyInfo.cs
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.csproj.CoreCompileInputs.cache
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.dll
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/refint/PM3Other.dll
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.pdb
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/PM3Other.genruntimeconfig.cache
+/mnt/data/Misha/Projects/csharp/PM3Other/PM3Other/obj/Debug/net6.0/ref/PM3Other.dll
